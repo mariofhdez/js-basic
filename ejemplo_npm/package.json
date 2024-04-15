@@ -1,0 +1,14 @@
+{
+  "name": "ejemplo_npm",
+  "version": "1.0.0",
+  "description": "Esto es un ejemplo de un fichero package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mario Florez",
+  "license": "MIT",
+  "dependencies": {
+    "change": "^0.0.0"
+  }
+}
